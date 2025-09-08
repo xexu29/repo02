@@ -6,3 +6,5 @@ Respuesta: Remoto
 ![alt text](image.png)  
 
 2.3 Añade un fichero readme.md y ejecuta los comandos pertinentes hasta llegar a poder realizar un commit.
+![alt text](image-1.png)  
+![alt text](image-3.png)
